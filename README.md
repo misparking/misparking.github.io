@@ -1,17 +1,16 @@
 # misparking.github.io
-**博客[Android优质信息源推荐](http://mp.weixin.qq.com/s?__biz=MzA5OTMxMjQzMw==&mid=2648112515&idx=1&sn=0ca7dc7a64a8b4ff49d3c37c137d907e&scene=0#wechat_redirect)，转载文章来自公众号 @寒江不钓。 **   
-
+**博客[Android优质信息源推荐](http://mp.weixin.qq.com/s?__biz=MzA5OTMxMjQzMw==&mid=2648112515&idx=1&sn=0ca7dc7a64a8b4ff49d3c37c137d907e&scene=0#wechat_redirect)，转载文章来自 寒江不钓。**    
 
 每一个Android开发者，都应该关注行业动态，及时获取开发信息，这样可以开阔视野，提高技术实力。然而在这个信息爆炸的时代，还是要宁缺毋滥，况且网络鱼龙混杂，不乏滥竽充数之辈，所以你需要订阅一些优质的信息源。
 
 下面是我个人日常订阅的信息源，主要包含博客、微博和微信公众号三种类型，基本上可以覆盖各种Android开发的最新资讯。
 
-博客
+##博客
 博客需要订阅，GR远去后，最理想的RSS工具应该要属Feedly了，有Chrome插件，可以及时收到博客更新通知。
 
-[团队博客]
+**1/ 团队博客**
 
-(http://android-developers.blogspot.com/)  
+http://android-developers.blogspot.com/  
 Android官方博客，android官方最新的一些动态，比如系统新版本特性，Instant Run技术等一般都会在这首发介绍。
 
 https://sites.google.com/a/android.com/tools/recent  
@@ -20,35 +19,29 @@ https://sites.google.com/a/android.com/tools/recent
 http://tech.meituan.com/  
 美团技术团队博客，Android方向的每一篇文章都是精品。美团内部使用Confluence，鼓励员工写Wiki，有幸看过很多文章，但精华都放到此博客上了。
 
-个人博客
+**2/ 个人博客**
 
 现在写博客的人少了，写独立博客的更是少之又少。CSDN也有很多优秀的博客，之前也订阅过一些，感觉有些内容不是很感兴趣，大多数都退订了。无妨，失之东隅，收之桑榆，这边看不到，微博上很可能就看到了。
 
-http://blog.zhaiyifan.cn/
-
+http://blog.zhaiyifan.cn/  
 翟一帆，BlockCanary作者，前腾讯、阿里工程师，目前创业中。我曾说这个行业里崔健很少、林忆莲比较多，他应该属于崔健这种的。基础扎实，文风浮夸，喜欢装逼，今年高产，各种系列连载。
 
-https://drakeet.me/
-
+https://drakeet.me/  
 许晓峰，Android自学成才，贝壳单词作者，Github有不少开源项目，现在阿里工作。文章朴实，很多是自己开源项目的介绍或者技术成长经历。
 
-http://www.race604.com/
-
+http://www.race604.com/  
 吴晶，Qing Camera作者，就职于小米，微博@Android笔记。博客之前有Android周报，现在好像不怎么连载了。
 
-http://weishu.me/
-
+http://weishu.me/  
 田维术，就职于360。博客中讲了一些插件化的东西，作者自己说『坚决不要纪录性内容，避免各种环境搭建，BUG解决等碎碎念内容；确保内容高质量。』
 
-http://mrpeak.cn/
-
+http://mrpeak.cn/  
 一个学长的博客，前天猫员工。Android和iOS通吃，文章蛮有深度，看过一篇《HTTP 2.0的那些事》，感觉讲的不错。 
 
-http://www.androidweekly.cn/
-
+http://www.androidweekly.cn/  
 Android开发技术周报，作者张会超，同时也是http://www.androiddevtools.cn/的站长。持续连载，几十年如一日，辛苦辛苦。
 
-微博
+##微博
 微博上之前关注了很多人，有很多噪音，现在精简到这么几个人，大都是相互关注的朋友，很多都在一些大公司，具备视野和深度。
 
 @Trinea  
@@ -62,16 +55,17 @@ Android开发技术周报，作者张会超，同时也是http://www.androiddevt
 @liangfeizc-Android  
 @愚公编程MrPeak 
  
-**微信公众号**  
+##微信公众号  
 公众号获取信息的比例越来越高，文章质量也比较好。微信公众号，我只关注两个，腾讯和其他。
 
-1/ 腾讯系
+**1/ 腾讯系**
 
 WeMobileDev  
 QQ音乐技术团队  
 QQ空间终端开发团队  
-腾讯Bugly  
-2/其他
+腾讯Bugly
+  
+**2/其他**
 
 移动开发前线  
 infoQ背景，投稿作者很多来自BAT等大公司，资源优势，文章质量较高。
