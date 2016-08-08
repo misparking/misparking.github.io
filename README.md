@@ -1,6 +1,7 @@
 # misparking.github.io
 **博客[Android优质信息源推荐](http://mp.weixin.qq.com/s?__biz=MzA5OTMxMjQzMw==&mid=2648112515&idx=1&sn=0ca7dc7a64a8b4ff49d3c37c137d907e&scene=0#wechat_redirect)，转载文章来自公众号 @寒江不钓。 **   
 
+
 每一个Android开发者，都应该关注行业动态，及时获取开发信息，这样可以开阔视野，提高技术实力。然而在这个信息爆炸的时代，还是要宁缺毋滥，况且网络鱼龙混杂，不乏滥竽充数之辈，所以你需要订阅一些优质的信息源。
 
 下面是我个人日常订阅的信息源，主要包含博客、微博和微信公众号三种类型，基本上可以覆盖各种Android开发的最新资讯。
@@ -8,15 +9,15 @@
 博客
 博客需要订阅，GR远去后，最理想的RSS工具应该要属Feedly了，有Chrome插件，可以及时收到博客更新通知。
 
-团队博客
+[团队博客]
 
-http://android-developers.blogspot.com/
+(http://android-developers.blogspot.com/)  
 Android官方博客，android官方最新的一些动态，比如系统新版本特性，Instant Run技术等一般都会在这首发介绍。
 
-https://sites.google.com/a/android.com/tools/recent
+https://sites.google.com/a/android.com/tools/recent  
 相比起官方博客，这个网站订阅的人就比较少了，里面主要是一些Android Studio更新日志和新特性介绍，AS作为我们日常使用的开发工具，跟踪了解其发展，有利于提高开发效率。
 
-http://tech.meituan.com/
+http://tech.meituan.com/  
 美团技术团队博客，Android方向的每一篇文章都是精品。美团内部使用Confluence，鼓励员工写Wiki，有幸看过很多文章，但精华都放到此博客上了。
 
 个人博客
@@ -50,34 +51,35 @@ Android开发技术周报，作者张会超，同时也是http://www.androiddevt
 微博
 微博上之前关注了很多人，有很多噪音，现在精简到这么几个人，大都是相互关注的朋友，很多都在一些大公司，具备视野和深度。
 
-@Trinea
-@胡凯me
-@hi大头鬼hi
-@任玉刚Coder
-@light_sky
-@陈启超_V
-@脉脉不嘚語
-@宅一番markzhai
-@liangfeizc-Android
-@愚公编程MrPeak
-微信公众号
+@Trinea  
+@胡凯me  
+@hi大头鬼hi  
+@任玉刚Coder  
+@light_sky  
+@陈启超_V  
+@脉脉不嘚語  
+@宅一番markzhai  
+@liangfeizc-Android  
+@愚公编程MrPeak 
+ 
+**微信公众号**  
 公众号获取信息的比例越来越高，文章质量也比较好。微信公众号，我只关注两个，腾讯和其他。
 
-腾讯系
+1/ 腾讯系
 
-WeMobileDev
-QQ音乐技术团队
-QQ空间终端开发团队
-腾讯Bugly
-其他
+WeMobileDev  
+QQ音乐技术团队  
+QQ空间终端开发团队  
+腾讯Bugly  
+2/其他
 
-移动开发前线
+移动开发前线  
 infoQ背景，投稿作者很多来自BAT等大公司，资源优势，文章质量较高。
 
-Android程序员
+Android程序员  
 海豚浏览器的汤涛在维护，投稿模式，运营的很不错，文章质量较高。
 
-codeKK
+codeKK  
 Trinea在维护，不多说了。
 
 独学而无友，则孤陋而寡闻。大家可以尝试去联系你认可的作者，大多数程序员人都非常nice，我看到很多人通过网上交流就认识了，成为工作学习上的良师益友。
